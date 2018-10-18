@@ -2893,8 +2893,8 @@ form .e2ma_signup_form_row {
 .add-welcome-box {
   -webkit-transform: translateY(-1000px);
           transform: translateY(-1000px);
-  -webkit-animation: 1s drop-down ease-in-out forwards;
-          animation: 1s drop-down ease-in-out forwards;
+  -webkit-animation: 1s drop-down ease-in-out forwards !important;
+          animation: 1s drop-down ease-in-out forwards !important;
   -webkit-animation-delay: 1s;
           animation-delay: 1s;
   -webkit-animation-iteration-count: 1;
@@ -2906,23 +2906,23 @@ form .e2ma_signup_form_row {
 
 @-webkit-keyframes drop-down {
   0% {
-    -webkit-transform: translateY(-1000px);
-            transform: translateY(-1000px);
-    max-height: 0; }
+    -webkit-transform: translateY(-1000px) !important;
+            transform: translateY(-1000px) !important;
+    max-height: 0 !important; }
   100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-    max-height: 1000px; } }
+    -webkit-transform: translateX(0) !important;
+            transform: translateX(0) !important;
+    max-height: 1000px !important; } }
 
 @keyframes drop-down {
   0% {
-    -webkit-transform: translateY(-1000px);
-            transform: translateY(-1000px);
-    max-height: 0; }
+    -webkit-transform: translateY(-1000px) !important;
+            transform: translateY(-1000px) !important;
+    max-height: 0 !important; }
   100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-    max-height: 1000px; } }
+    -webkit-transform: translateX(0) !important;
+            transform: translateX(0) !important;
+    max-height: 1000px !important; } }
 @-webkit-keyframes pull-up {
   0% {
     -webkit-transform: translateX(0);
