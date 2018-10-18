@@ -2686,3 +2686,348 @@ form select {
   .landing-list li {
     font-size: 16px;
     line-height: 1.2; }
+
+/* Controls width of your form */
+.e2ma_signup_form {
+  box-sizing: border-box;
+  font-family: proxima-nova, Helvetica, Arial, sans-serif;
+  margin: auto !important;
+  padding: 0 15px;
+  width: 100%;
+  background: #404042;
+  border: 1px solid #404042; }
+
+#e2ma_signup form {
+  margin: 0 auto; }
+
+/* Mobile optimization */
+@media only screen and (max-device-width: 568px) {
+  .e2ma_signup_form {
+    width: 100%; } }
+/* Controls the style, width, and font style of the text input, select and textarea fields */
+.e2ma_signup_form input[type=text],
+.e2ma_signup_form input[type=email],
+.e2ma_signup_form textarea,
+.e2ma_signup_form select[multiple=multiple] {
+  border-radius: 0px;
+  background: #fff;
+  border: 1px solid white;
+  color: #404042;
+  font-size: 2rem !important;
+  padding: 2.4rem !important;
+  width: 60%;
+  display: inline-block;
+  transition: 0.3s; }
+
+/* Prevents auto-zooming of page and form elements when filling out the form */
+@media only screen and (max-device-width: 568px) {
+  .e2ma_signup_form input[type=text],
+  .e2ma_signup_form input[type=email],
+  .e2ma_signup_form textarea,
+  .e2ma_signup_form select[multiple=multiple],
+  .e2ma_signup_form select,
+  .e2ma_signup_form select:focus {
+    font-size: 1rem; } }
+.e2ma_signup_form input[type="text"]:focus,
+.e2ma_signup_form input[type="email"]:focus,
+.e2ma_signup_form textarea:focus,
+.e2ma_signup_form select[multiple=multiple]:focus {
+  background: white;
+  color: #404042;
+  -webkit-transform: translateY(-0.2rem);
+  transform: translateY(-0.2rem); }
+
+.e2ma_signup_form textarea {
+  min-height: 138px; }
+
+@media only screen and (min-device-width: 620px) {
+  .e2ma_signup_form select {
+    max-width: 580px; } }
+.e2ma_signup_form select[multiple=multiple] {
+  height: 72px;
+  padding-left: 0; }
+
+/* Controls width, style, and padding of the table border outlines around individual member fields */
+form .e2ma_signup_form_row {
+  width: 60%;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0 30px; }
+
+/* Controls alignment and display of image in welcome message */
+.e2ma_signup_form_container {
+  margin: 1rem auto; }
+
+/* Mobile optimization for images */
+.e2ma_signup_image_container > img {
+  display: block;
+  height: auto !important;
+  margin: auto auto 18px;
+  max-width: 100% !important; }
+
+/* Controls border around signup image (when image is linked) */
+.e2ma_signup_image {
+  border: 0; }
+
+/* Controls style and formatting of welcome message */
+.e2ma_signup_message {
+  color: #ffffff !important;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 300; }
+
+/* Controls style and formatting of form field labels (first name, last name, etc.) */
+.e2ma_signup_form_label {
+  display: none; }
+
+/* Controls spacing and style for any text used to list options under multiple choice fields) */
+.e2ma_signup_form_element {
+  margin-top: 5px;
+  display: inline; }
+
+/* Removes the bullets to the left of list items on the sign up pages */
+.e2ma_signup_form_element li {
+  color: #40454f;
+  font-size: 13px;
+  list-style: none; }
+
+.e2ma_signup_form_element ul {
+  margin: 5px 0 0;
+  padding-left: 0; }
+
+/* For signup screens that are set to allow people to select which audience groups they'd like to join: Controls style for "Select your interests..." text */
+.e2ma_signup_form_group_label {
+  color: #40454F;
+  font-size: 14px;
+  font-weight: 600;
+  min-width: 150px;
+  padding-top: 10px; }
+
+/* For signup screens that are set to allow people to select which audience groups they'd like to join: Controls style and spacing for groups displayed as options */
+.e2ma_signup_form_groups {
+  margin-bottom: 10px; }
+
+/* Controls the style and spacing of the word "required" and border surrounding that text */
+.e2ma_signup_form_required_footnote {
+  display: none; }
+
+/* Controls the color of the asterisk that indicates a field is required */
+.e2ma_signup_form_required_asterix {
+  color: #fff; }
+
+/* Controls the alignment of "submit" and "clear" buttons */
+.e2ma_signup_form_button_row {
+  margin: 10px 0 !important;
+  padding: 10px 0 !important;
+  text-align: left !important;
+  display: inline-block !important; }
+
+/* Precautionary step to ensure "clear" button no longer displays on forms */
+.e2ma_signup_form_button_row #e2ma_signup_reset_button.e2ma_signup_form_button {
+  display: none; }
+
+/*Overrides mobile browser default settings for button styles (for additional control of "submit" button) */
+.e2ma_signup_form input[type=submit],
+.e2ma_signup_form .e2ma_signup_form_button {
+  background: transparent;
+  border: 1px solid #fff;
+  font-size: 2rem;
+  padding: 1.3rem 2rem;
+  font-weight: 200;
+  height: 5rem;
+  -webkit-appearance: none;
+  border-radius: 0; }
+
+.e2ma_signup_form input[type=submit]:hover {
+  background: #fff;
+  border: 1px solid #404042;
+  color: #404042;
+  -webkit-appearance: none;
+  border-radius: 0; }
+
+/*Overrides browser default settings for button styles (for additional control of "submit" button) */
+.e2ma_signup_form_button {
+  background: transparent;
+  color: white;
+  padding: 1.3rem 2rem;
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: 300;
+  border: 1px solid #fff;
+  transition: 0.3s; }
+
+.e2ma_signup_form_button:hover {
+  background: #404042;
+  color: #fff;
+  border: 1px solid #fff; }
+
+#welcome-box form {
+  padding-left: 11%; }
+
+.welcome-0-height {
+  max-height: 0; }
+
+.welcome-box {
+  background: #404042;
+  padding: 20px 0px;
+  color: white;
+  margin-top: -21px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+  max-height: 0px;
+  overflow: hidden;
+  font-size: 18px; }
+
+.welcome-box-seen-before {
+  max-height: 1000px;
+  opacity: 1;
+  -webkit-transform: translateX(0);
+          transform: translateX(0);
+  background: #404042;
+  padding: 20px 0px;
+  color: white;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  padding: 20px 0px; }
+
+.add-welcome-box {
+  -webkit-transform: translateY(-1000px);
+          transform: translateY(-1000px);
+  -webkit-animation: 1s drop-down ease-in-out forwards;
+          animation: 1s drop-down ease-in-out forwards;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1; }
+
+.remove-welcome-box {
+  -webkit-animation: 1s pull-up ease-in-out forwards;
+          animation: 1s pull-up ease-in-out forwards; }
+
+@-webkit-keyframes drop-down {
+  0% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 1000px; } }
+
+@keyframes drop-down {
+  0% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 1000px; } }
+@-webkit-keyframes pull-up {
+  0% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 1000px; }
+  100% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; } }
+@keyframes pull-up {
+  0% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 1000px; }
+  100% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; } }
+.welcome-exit {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  color: white;
+  transition: all 0.15s ease-out 0s;
+  cursor: pointer; }
+  .welcome-exit:hover {
+    color: #727276; }
+  .welcome-exit:focus {
+    outline: 0;
+    border: 0; }
+
+.welcome-hidden-margin {
+  margin-bottom: 20px; }
+
+#welcome::before {
+  display: table; }
+@-moz-document url-prefix() {
+  #welcome::before {
+    display: inline-block; } }
+.newsletter {
+  background: #404042;
+  color: white;
+  text-align: center;
+  padding: 1rem; }
+  .newsletter p {
+    margin-bottom: 1.5rem; }
+
+.newsletter_optin {
+  max-width: 50rem;
+  margin: 3rem auto;
+  margin-bottom: 0rem;
+  margin-top: 4.5rem; }
+  .newsletter_optin input {
+    vertical-align: middle; }
+  .newsletter_optin input[type='email'] {
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    border: 1px solid white;
+    color: #404042;
+    font-size: 2rem;
+    padding: 1.3rem;
+    height: auto;
+    width: 70%;
+    display: inline-block;
+    margin-right: 1rem;
+    transition: 0.3s; }
+    .newsletter_optin input[type='email']::-webkit-input-placeholder {
+      color: white; }
+    .newsletter_optin input[type='email']::-moz-placeholder {
+      color: white; }
+    .newsletter_optin input[type='email']:-moz-placeholder {
+      color: white; }
+    .newsletter_optin input[type='email']:-ms-input-placeholder {
+      color: white; }
+    .newsletter_optin input[type='email']:focus {
+      background: white;
+      color: #404042;
+      -webkit-transform: translateY(-0.2rem);
+      transform: translateY(-0.2rem); }
+      .newsletter_optin input[type='email']:focus::-webkit-input-placeholder {
+        color: transparent; }
+      .newsletter_optin input[type='email']:focus::-moz-placeholder {
+        color: transparent; }
+      .newsletter_optin input[type='email']:focus:-moz-placeholder {
+        color: transparent; }
+      .newsletter_optin input[type='email']:focus:-ms-input-placeholder {
+        color: transparent; }
+  .newsletter_optin input[type="submit"] {
+    background: transparent;
+    color: white;
+    padding: 1.3rem 2rem;
+    text-transform: capitalize;
+    font-size: 2rem;
+    border-radius: 0px;
+    font-weight: 300;
+    border: 1px solid white;
+    transition: 0.3s; }
+    .newsletter_optin input[type="submit"]:hover {
+      background: #404042;
+      color: #fff;
+      border: 1px solid #404042; }
+    .newsletter_optin input[type="submit"]:active {
+      box-shadow: 0 0 0 #404042; }
+
+@media (max-width: 1113px) {
+  .newsletter_optin input[type="submit"], .newsletter_optin input[type="email"] {
+    margin: 10px auto;
+    width: 90%; } }
