@@ -34,4 +34,6 @@ When it comes time to submit an offer on a home, how can you ensure that you sta
 
 **4. Help the seller feel good about your offer.** Sellers don’t always choose the very highest offer. Sometimes, they choose the offer they feel best about. Buyers and sellers are both making emotional decisions throughout the real estate process, so taking small actions like including a personal letter or family photo with your offer can go a long way.&nbsp;
 
+**5. Give the seller time to move out.** Moving is stressful for buyers and sellers, so giving them a little extra time after closing to move out will help them out and speak volumes about your offer. Sometimes I'll even suggest offering a short-term leaseback to the seller as well.
+
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
