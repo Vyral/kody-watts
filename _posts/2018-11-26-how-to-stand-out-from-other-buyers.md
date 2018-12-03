@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stand Out From Other Buyers
-date: 2018-11-26 19:29:38
+date: 2018-11-26 19:29:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: IS563uIr7cg
+youtube_code: pcbjumFQ4vE
 ---
 
 {% include youtube.html %}
