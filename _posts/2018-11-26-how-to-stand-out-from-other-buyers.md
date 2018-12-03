@@ -22,7 +22,7 @@ youtube_code: IS563uIr7cg
 
 {% include youtube.html %}
 
-When it comes time to submit an offer on a home, how can you ensure that you stand out above the competition? Actually, there are five main tips we recommend you use to catch the seller’s eye.&nbsp;
+When it comes time to submit an offer on a home, how can you ensure that you stand out above the competition? Actually, there are five main tips I recommend you use to catch the seller’s eye.&nbsp;
 
 **1. Make the strongest offer possible.** It sounds obvious, but if you really want to secure a home, you need to put your best foot forward. Buyers tend to only look at the very best properties within their search criteria. With that in mind, it only makes sense that the quality of your offer must match the quality of the home you’re interested in. Lowballing a seller will very rarely reap positive results. Don’t be afraid to make an offer at or above list price. Getting a good deal is great, but getting the home you want is even more important.&nbsp;
 
@@ -36,4 +36,4 @@ When it comes time to submit an offer on a home, how can you ensure that you sta
 
 **5. Give the seller time to move out.** Moving is stressful for buyers and sellers, so giving them a little extra time after closing to move out will help them out and speak volumes about your offer. Sometimes I'll even suggest offering a short-term leaseback to the seller as well.
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
