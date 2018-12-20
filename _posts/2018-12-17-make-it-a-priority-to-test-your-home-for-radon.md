@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kody+Watts/The+Kody+Watts+Team-+Make+It+a+Priority+to+Test+Your+Home+for+Radon.mp4
 pullquote: >-
-  The EPA estimates that 1 in every 15 homes in the U.S. has elevated levels of
+  The EPA estimates that 1 in every 15 homes in the U.S. have elevated levels of
   radon gas.
 enclosure_type: video/mp4
 enclosure_time:
