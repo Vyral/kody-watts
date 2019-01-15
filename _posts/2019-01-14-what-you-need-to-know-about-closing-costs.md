@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Closing Costs
-date: 2019-01-14 16:27:06
+date: 2019-01-14 16:27:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YXaGI87iiiQ
+youtube_code: pIQoVp8dyaA
 ---
 
 {% include youtube.html %}
@@ -38,7 +38,7 @@ Today weâ€™re talking all about closing costs. What are they? Who pays them? Weâ
 * Loan processing fees
 * Upfront mortgage insurance premiums
 * Real estate transaction fees
-* Escrow account set up fee
+* Escrow account set-up fee
 * Property taxes
 * Homeowners insurance premiums
 * Daily interest
