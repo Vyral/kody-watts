@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Reasons Why Owning a Home/Investing in Real Estate Is a Smart Idea
+title: 4 Reasons Why Owning a Home/Investing in Real Estate is a Smart Idea
 date: 2019-02-01 16:27:00
 tags:
   - Home Buyer Tips
