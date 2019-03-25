@@ -24,7 +24,7 @@ Here are five ways you can make more money when you sell your home:
 
 <br>**2. Check your curb appeal.** You want to make sure the lawn and home’s exterior look great. To help achieve this, mow the grass, edge the lawn, remove weeds, freshen up bark beds, remove trash in the yard, and avoid storing things outside.
 
-<br>**3******.** Make sure the home smells nice.** Take out the trash, remove odors from pets and smoke, and consider placing air fresheners throughout the home.
+<br>**3. Make sure the home smells nice.&nbsp;**Take out the trash, remove odors from pets and smoke, and consider placing air fresheners throughout the home.
 
 **<br>4. Consider doing minor repairs or upgrades.** Repaint the house with updated colors, or simply touch up where paint is needed. Consider getting your carpets cleaned or replaced altogether. Buyers are always willing to pay a higher price when they don’t have to take care of these things.
 
