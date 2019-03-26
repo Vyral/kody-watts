@@ -28,6 +28,6 @@ Here are five ways you can make more money when you sell your home:
 
 **<br>4. Consider doing minor repairs or upgrades.** Repaint the house with updated colors, or simply touch up where paint is needed. Consider getting your carpets cleaned or replaced altogether. Buyers are always willing to pay a higher price when they don’t have to take care of these things.
 
-<br>**5. Explore professional home staging options**.There are many options available that will help your home look its very best.
+<br>**5. Explore professional home staging options**. There are many options available that will help your home look its very best.
 
 If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
